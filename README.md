@@ -57,5 +57,5 @@ learning for smart grids, demand response, and cyber-physical system security.
 
 ## Author
 **Rajesh Manicavasagam**  
-Machine Learning Engineer | PhD in Applied Machine Learning  
+Machine Learning Engineer | PhD in Computer Science 
 GitHub: https://github.com/rmanicav
